@@ -1,0 +1,35 @@
+{
+  "version": "0.0.2",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "name": "timeline",
+  "main": "index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "typescript": "^3.8.2"
+  },
+  "dependencies": {
+    "d3-axis": "1.0.12",
+    "d3-scale": "3.2.1",
+    "d3-selection": "1.4.1",
+    "d3-selection-multi": "1.0.1",
+    "d3-time": "1.1.0",
+    "d3-time-format": "2.2.3",
+    "prop-types": "15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "^3.0.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "description": null
+}
